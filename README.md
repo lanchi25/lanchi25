@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Chi
+Hi !👋 My name is Chi
 ==========================================================================================================================================
 
 _"I have a passion for analyzing data into clear insight boost the drive decision-making process and eager to pick up more about professional skills. I am looking for a chance to get up close and personal with data analysis, leaning all about its pratices, challenges, and contribution to the organization."_
