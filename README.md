@@ -1,7 +1,7 @@
 Hi !👋 My name is Chi
 ==========================================================================================================================================
 
-_"I have a passion for analyzing data into clear insight boost the drive decision-making process and eager to pick up more about professional skills. I am looking for a chance to get up close with data analysis, leaning all about its practices, challenges, and contribution to the organization."_
+_"I have a passion for analyzing data into clear insight to boost the drive decision-making process and eager to pick up more professional skills. I am looking for a chance to get up close with data analysis, learning all about its practices, challenges, and contribution to the organization."_
 
 * 🖥️  See my portfolio at [https://lanchi25.github.io](http://lanchi25.github.io/)
 * ✉️  You can contact me at [lanchi21012@gmail.com](mailto:lanchi21012@gmail.com)
